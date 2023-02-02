@@ -7,7 +7,7 @@ $$
 \vec{v}_{1} = \begin{bmatrix}5\\9\\\text{-1}\\0\end{bmatrix}, \vec{v}_{2} = \begin{bmatrix}7\\3\\9\\1\end{bmatrix}
 $$
 
-The dot product of these vectors is given byn the following formula:
+The dot product of these is given byn the following formula:
 
 * Dot product:
 $$
